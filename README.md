@@ -12,9 +12,9 @@ Each project notebook starts with a short summary: goal, data, methods, results 
 
 | | |
 |---|---|
-| 🚗 **[Car body type classification (CNN)](05-deep-learning/car_body_type_classification_nn_cnn.ipynb)**<br>Classifies car images into 7 body types. A CNN reached **75.2%** test accuracy vs. 49.0% for a dense network. | ![CNN accuracy](images/cnn_accuracy_curve.png) |
-| 🤖 **[Transformers for text classification](06-nlp-transformers/text_classification_transformers.ipynb)**<br>Zero-shot classification with BART-MNLI labelled **85%** of sentences correctly with no training data; DistilBERT embeddings + K-means. | ![Elbow](images/embedding_elbow.png) |
-| 📊 **[Structural equation modelling](07-structural-equation-modelling/sem_student_performance.ipynb)**<br>Latent-variable model showing family background affects performance *indirectly* via study behaviour. | ![SEM](images/sem_diagram.png) |
+| **[Car body type classification (CNN)](05-deep-learning/car_body_type_classification_nn_cnn.ipynb)**<br>Classifies car images into 7 body types. A CNN reached **75.2%** test accuracy vs. 49.0% for a dense network. | ![CNN accuracy](images/cnn_accuracy_curve.png) |
+|  **[Transformers for text classification](06-nlp-transformers/text_classification_transformers.ipynb)**<br>Zero-shot classification with BART-MNLI labelled **85%** of sentences correctly with no training data; DistilBERT embeddings + K-means. | ![Elbow](images/embedding_elbow.png) |
+| **[Structural equation modelling](07-structural-equation-modelling/sem_student_performance.ipynb)**<br>Latent-variable model showing family background affects performance *indirectly* via study behaviour. | ![SEM](images/sem_diagram.png) |
 
 ## Contents
 
