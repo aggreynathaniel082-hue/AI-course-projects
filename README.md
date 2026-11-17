@@ -1,4 +1,4 @@
-[README_ai-course-projects.md](https://github.com/user-attachments/files/34972673/README_ai-course-projects.md)
+
 # AI & Machine Learning Course Projects
 
 Hands-on projects from the AI / Machine Learning course of my **M.Eng. in Engineering & Sustainable Technology
