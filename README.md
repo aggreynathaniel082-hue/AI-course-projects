@@ -1,3 +1,4 @@
+**English** | [Deutsch](README.de.md)
 
 # AI & Machine Learning Course Projects
 
